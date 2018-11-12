@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Allerta Stencil', sans-serif;
+}
+/* Reutilizables */
+.vh100 {
+  height: 100vh;
+}
+.flexboxing {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: space-between;
+  align-items: center;
+}
+.paddingtop20vh {
+  padding-top: 30vh;
+}
+.padding2em {
+  padding: 2.1em;
+}
+/* imagen principal */
+.logo {
+  background-position: center;
+}
+/* Vista HOME */
